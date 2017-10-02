@@ -1,0 +1,9 @@
+D3
+
+http://www.datasketch.es/
+bl.ocks.org
+blockbuilder.org
+
+JS Good Parts
+
+Look up getters and setters
